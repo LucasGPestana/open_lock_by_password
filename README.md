@@ -38,9 +38,9 @@ Ao informar os 4 dígitos da senha como entrada, caso os números e as ordens de
 
 ## Estrutura do Projeto
 
-[main.c](./main.c) - Arquivo com a função principal do programa que recebe os dígitos da senha como entrada e informa o estado do cadeado como saída (Aberta ou Fechada)
-[padlock.h](./padlock.h) - Arquivo de interface com a declaração do registro de campo de bits dos dados do cadeado (Data Padlock) e os protótipos das sub-rotinas relacionadas a esse registro
-[padlock.c](./padlock.c) - Arquivo de implementação das sub-rotinas associadas ao registro do campo de bits dos dados do cadeado (Data Padlock)
+- [main.c](./main.c) - Arquivo com a função principal do programa que recebe os dígitos da senha como entrada e informa o estado do cadeado como saída (Aberta ou Fechada)
+- [padlock.h](./padlock.h) - Arquivo de interface com a declaração do registro de campo de bits dos dados do cadeado (Data Padlock) e os protótipos das sub-rotinas relacionadas a esse registro
+- [padlock.c](./padlock.c) - Arquivo de implementação das sub-rotinas associadas ao registro do campo de bits dos dados do cadeado (Data Padlock)
 
 ## Requisitos do Projeto
 
